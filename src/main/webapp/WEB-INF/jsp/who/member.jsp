@@ -14,15 +14,18 @@
 <div class="wrapper row1">
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
-    <div id="logo" class="fl_left">
-      <h1><a href="/worldofhonesty/home">World of Honesty</a> / <a href="/worldofhonesty/member">Member</a></h1>
-    </div>
-    <nav id="mainav" class="fl_right">
+    <nav id="mainav" class="fl_left">
       <ul class="clear">
         <li><a href="/worldofhonesty/home">Home</a></li>
         <li class="active"><a href="/worldofhonesty/member">Member</a></li>
+        <li><a href="#">Join Us</a></li>
       </ul>
     </nav>
+    
+    <div id="logo" class="fl_right">
+      <h1><a href="/home">Fifth Pillar</a></h1>
+    </div>
+    
     <!-- ################################################################################################ -->
   </header>
 </div>

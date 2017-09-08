@@ -40,5 +40,10 @@ public class FifthPillarController {
 	public String service(Map<String, Object> model) {
 		return "pages/services";
 	}
+	
+	@RequestMapping("/organization-structure")
+	public String organizationStructure(Map<String, Object> model) {
+		return "pages/organization-structure";
+	}
 
 }
