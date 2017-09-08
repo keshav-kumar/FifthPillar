@@ -15,9 +15,4 @@ public class WorldOfHonestyController {
 		return "who/world_of_honesty_home";
 	}
 	
-	@RequestMapping("/member")
-	public String memberPage(Map<String, Object> model) {
-		model.put("message", "Welcome On World Of Honesty");
-		return "who/member";
-	}
 }
