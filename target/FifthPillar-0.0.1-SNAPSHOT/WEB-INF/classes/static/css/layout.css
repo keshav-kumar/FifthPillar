@@ -234,7 +234,7 @@ label span{color:#FF0000; background-color:inherit;}
 input:focus, textarea:focus, *:required:focus{border-color:#A1C6D9;}
 
 .overlay{color:#FFFFFF; background-color:inherit;}
-.overlay::after{color:inherit; background-color:rgba(0,0,0,.55);}
+.overlay::after{color:inherit; background-color:rgba(0,0,0,.25);}
 
 .btn, .btn.inverse:hover{color:#FFFFFF; background-color:#A1C6D9; border-color:#A1C6D9;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
