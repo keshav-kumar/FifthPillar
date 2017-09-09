@@ -248,7 +248,7 @@
 							<a href="#"><img src="images/team/Atul Shrivastava.jpg" alt=""></a>
 							<figcaption class="txtcaption">
 								<h6 class="heading">Mr. Atul Kumar</h6>
-								<p>Principal Member of Technical Staff at Oracle, Ex. Engineer at IBM, & Hughes Systems M. Tech IIIT Allahabad, MBA)</p>
+								<p>Principal Member of Technical Staff at Oracle, Ex. Engineer at IBM (Software Labs), & Hughes Systique, M. Tech IIIT Allahabad (Gold Medalist), MBA, MCA)</p>
 								<footer>
 									<a href="#">View Details &raquo;</a>
 								</footer>
