@@ -9,10 +9,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/worldofhonesty/*")
 public class WorldOfHonestyController {
 
-	@RequestMapping("/home")
-	public String homePage(Map<String, Object> model) {
-		model.put("message", "Welcome On World Of Honesty");
-		return "who/world_of_honesty_home";
-	}
-	
+    @RequestMapping("/home")
+    public String homePage(Map<String, Object> model) {
+        model.put("message", "Welcome On World Of Honesty");
+        return "who/world_of_honesty_home";
+    }
+
 }
