@@ -72,7 +72,7 @@
       <!-- ################################################################################################ -->
       <div id="commercial_srv">
       	<div class="group btmspace-80">
-       	<h4><B>COMMERCIAL SERVICES</B></h4>
+       	<h4><B>COMMERCIAL SERVICES</B></h4><hr>
 	      <div class="fl_left">
 	        <h4>House Building Material:</h4>
 	        <img class="imgl borderedbox inspace-5" src="/images/Offered Services/House Building Materials.jpg" alt="">
@@ -88,13 +88,13 @@
 	      <div class="fl_left">
 	         <h4>Facilitation centers for insurance & investment:</h4>
 	        <img class="imgl borderedbox inspace-5" src="/images/Offered Services/Facilitation Centers for Insurance & Investment.jpg" alt="">
-	        <p>A major problem that our country faces is the proper financial inclusion of people from the rural areas due to inadequate reach of financial institutions and lack of awareness & knowledge. People are unable to enjoy the benefits of attaining growth of their money by storing/investing them with the financial institution. Many times intermediaries of various companies/banks misguide people and their investments end-up in loss, hence they feel cheated. People also fall in the everlasting debt traps due to borrowing from unregulated moneylenders at exorbitant rates of interest. Panchwa Stambh, therefore, has a plan of helping people by acting as an intermediary (investment, loan, & policy advisor) who will guide and help in availing policies, investing in right place and in availing loans. Panchwa Stambh will thus help the people in attaining better financial health and also protect them from unfortunate events.</p>
+	        <p>A major problem that our country faces is the proper financial inclusion of people from the rural areas due to inadequate reach of financial institutions and lack of awareness & knowledge. People are unable to enjoy the benefits of attaining growth of their money by storing/investing them with the financial institution. Many times intermediaries of various companies/banks misguide people and their investments end-up in loss, hence they feel cheated. People also fall in the everlasting debt traps due to borrowing from unregulated moneylenders at exorbitant rates of interest. We have plan to tie-up with the banks/ agencies. Panchayat center will help people by acting as an intermediary (investment, loan, & policy advisor) who will guide and help in availing policies, investing in right place and in availing loans. Panchwa Stambh will thus help the people in attaining better financial health and also protect them from unfortunate events.</p>
 	      </div>
 	    
 	      <div class="fl_left">
 	        <h4>Telemedicine centers:</h4>
 	        <img class="imgr borderedbox inspace-5" src="/images/Offered Services/Telemedicine Centers.jpg" alt="">
-	        <p>The rural people again face a lot of problems in accessing proper health facilities. Healthcare expenses are going up and to add to that, the villagers have to spend extra amount of money in travelling to the cities, even to have access to basic healthcare facilities. This can be prevented with the presence of some persons who can be trained by the doctors for the basic ailments like common cold, fever, headache, loose motions, etc. Moreover, the patients will be inspected by the doctors by using technological facilities like video calling. For all these facilities, patient will be charged a nominal fee, which will be insignificant vis-a-vis the benefits for the people. Regarding the medicines, it will be advised to the doctors to prescribe only generic medicines, which again will be stocked by our centers, so that the people can buy from us without having to travel to the cities. In the case doctor find a patient with a severe problem/disease, he/she may call to his/her hospital/clinic for further investigation and treatment.</p>
+	        <p>The rural people face a lot of problems in accessing proper health facilities. Healthcare expenses are going up and to add to that, the villagers have to spend extra amount of money in travelling to the cities, even to have access to basic healthcare facilities. This can be prevented with the presence of some persons who can be trained by the doctors for the basic ailments like common cold, fever, headache, loose motions, etc. Moreover, the patients will be inspected by the doctors by using technological facilities like video calling. For all these facilities, patient will be charged a nominal fee, which will be insignificant vis-a-vis the benefits for the people. Regarding the medicines, it will be advised to the doctors to prescribe only generic medicines, which again will be stocked by our centers, so that the people can buy from us without having to travel to the cities. In the case doctor find a patient with a severe problem/disease, he/she may call to his/her hospital/clinic for further investigation and treatment.</p>
 	      </div>
 	    
 	      <div class="fl_left">
@@ -120,18 +120,18 @@
       
       <div id="gov_srv">
       	<div class="group btmspace-80">
-      	  <h4><B>GOVERNMENT SERVICES</B></h4>
+      	  <h4><B>GOVERNMENT SERVICES</B></h4><hr>
 	      <div class="fl_left">
 	        <h4>Public Services</h4>
 	        <img class="imgr borderedbox inspace-5" src="/images/Offered Services/Public Services.jpg" alt="">
-	        <p>Panchwa Stambh can provide services like helping the villagers to lodge complaints and FIR’s in local police stations or availing other public services. Often a person from the village has to face problems in order to avail the benefits of any government policies, schemes, and issuance of government certificates followed by a delay in the process. We can help them by taking all these initiatives on their behalf and help in smoothing the process. We will arrange frequent meetings with the authorities and update them of the status of ground work.</p>
+	        <p>Panchwa Stambh can facilitate in availing government services. Sewa Kendra can help the villagers to lodge complaints and FIR’s in local police stations or availing other public services. Often a person from the village has to face problems in order to avail the benefits of any government policies, schemes, and issuance of government certificates followed by a delay in the process. We can help them by taking all these initiatives on their behalf and help in smoothing the process. We will arrange frequent meetings with the authorities and update them of the status of ground work.</p>
     	  </div>
 	    </div>
       </div>
       
       <div id="social_srv">
       	<div class="group btmspace-80">
-	      	<h4><B>SOCIAL SERVICES</B></h4>
+	      	<h4><B>SOCIAL SERVICES</B></h4><hr>
 	      	<div class="group">
 		      <div class="fl_left">
 		        <h4>General Public Services:</h4>
@@ -148,30 +148,30 @@
 	      	  <div class="fl_left">
 		        <h4>Information Services:</h4>
 		        <img class="imgr borderedbox inspace-5" src="/images/Offered Services/Information Centers.jpg" alt="">
-		        <p>The service center will be a good way to get information. Whether, it is the government to get any kind of data or police to get any kind of information. Many times, in the absence of correct information, people are being cheated even in case of marriage. Sometimes, due to wrong information or rumors, a good relationship couldn’t get materialized. Apart from this, these centers will also be useful.</p>
+		        <p>The service center will be a good way to get information. Whether, it is the government to get any kind of data or police to get any kind of information. Many times, due to absence of correct information, people are being cheated even in case of marriages. Sometimes, due to wrong information or rumors, a good relationship couldn’t get materialized. Apart from this, these centers will also be useful.</p>
 	      	  </div>
 	      	  
 	      	  <div class="fl_left">
 		        <h4>Labor Welfare:</h4>
 		        <img class="imgl borderedbox inspace-5" src="/images/Offered Services/Labour Welfare.jpg" alt="">
-		        <p>Even today, the unemployment rate is that laborers go to the city to do wages from the villages and there are some places (intersections, etc.) in the city/town where people are waiting to be invited to work. Many workers are in the hands of the broker, and they have to pay some of their wages to these brokers. Many times the workers from the far-flung villages have to return empty hands if they do not get work. Many times they do not even get wages in return for work, or they have to follow for several days. Apart from this, most of the laborers do not even have the government license, due to which they do not get the benefit of government schemes. With the solution of all these problems, the Panchwa Stambh will make such arrangements that the workers will get information about where to work from the service center in advance. Anyone who needs a laborer can contact the helpline number issued. The fifth column will do the government registration of all laborers through their service centers and help them in gaining the benefits of the government schemes.</p>
+		        <p>Even today, the unemployment rate is so high that laborers have to go to the city to do chores from the villages and there are some places (intersections, etc.) in the cities/towns where people are waiting to be called for work. Many workers are in the hands of the broker, and they have to pay a part of their wages to these brokers. Many times the workers from the far-flung villages have to return empty hands if they do not get work. Many times they do not even get wages in return for their work, or they have to follow for several days. Apart from this, most of the laborers do not even have the government license, due to which they do not get the benefit of government schemes. With the solution of all these problems, the PanchwaStambh will make such arrangements that the workers will get information about where to work from the service center in advance. Anyone who needs a laborer can contact the helpline number issued. The fifth column will do the government registration of all laborers through their service centers and help them in gaining the access benefits of the government schemes.</p>
 	      	  </div>
 		    </div>
 	    </div>
       </div>
       
       <div id="chetna_kendra_srv">
-      	<h4><B>Chetna Kendra Services</B></h4>
+      	<h4><B>Chetna Kendra Services</B></h4><hr>
       	<div class="group">
 	      <div class="fl_left">
       			<h4>Education:</h4>
       			<img class="imgr borderedbox inspace-5" src="/images/Offered Services/Education.jpg" alt="">
-      			<p>In the long run if there is one solution to practically all problems, it is education, more especially its quality, which is one of the most neglected things in this country. Education builds up character, imparts knowledge, hones thinking skills, refines our emotions, and provides skills that make one employable. For having an idea of my work on education, it may be useful to view the pictures and news clips in the gallery section, Though we have been working mainly with the underprivileged children for carrying our my educational experiments, a holistic alternative curriculum and an alternative pedagogy have evolved in the process that can help all age groups and all classes of children.</p>
+      			<p>In the long run if there is one solution to practically all problems, it is education, more especially its quality, which is one of the most neglected things in this country. Education builds up character, imparts knowledge, hones thinking skills, refines our emotions, and provides skills that make one employable. For having an idea of our work on education, it may be useful to view the pictures and news clips in the gallery section, Though we have been working mainly with the underprivileged children for carrying our my educational experiments, a holistic alternative curriculum and an alternative pedagogy have evolved in the process that can help all age groups and all classes of children.</p>
      	  </div>
 	      <div class="fl_left">
       			<h4>Poverty Alleviation:</h4>
       			<img class="imgl borderedbox inspace-5" src="/images/Offered Services/Poverty Alleviation.jpg" alt="">
-      			<p>It is a great shame for a country, which has all along been the most prosperous country of the world in the ancient and the mediaeval period, to be now ranked among the poorest countries of the world, and to be home to the largest number of the extremely poor population on earth. We have been researching on the phenomenon of poverty trying to find ways that could cure this disease in a few years’ time - at least of some of the poorest states of India. We have prepared a 300-page project report way back in 2008-09 on a new poverty alleviation strategy and also a 50-minute documentary in English, and another in Hindi, to convince the political and bureaucratic leadership, who have no time or inclination to read long documents. Unfortunately, we discovered that our bureaucratic and political leadership in more interested in removing their own poverty, and seem to have no interest in removing the poverty of the teeming millions of India. So finally a Panchwa Stambh was formed to acquire the position that would enable us to implement the programme.</p>
+      			<p>It is a matter of great shame for a country, which has all along been the most prosperous country of the world in the ancient and the mediaeval period, to be now ranked among the poorest countries of the world, and to be home to the largest number of the extremely poor population on earth. We have been researching on the phenomenon of poverty trying to find ways that could cure this disease in a few years’ time - at least of some of the poorest states of India. We have prepared a 300-page project report way back in 2008-09 on a new poverty alleviation strategy and also a 50-minute documentary in English, and another in Hindi, to convince the political and bureaucratic leadership, who have no time or inclination to read long documents. Unfortunately, we discovered that our bureaucratic and political leadership in more interested in removing their own poverty, and seem removing the poverty of the teeming millions of India. So finally a Panchwa Stambh was formed to acquire the position that would enable us to implement the programme.</p>
       	  </div>
 	      <div class="fl_left">
       			<h4>Center of Spirituality:</h4>

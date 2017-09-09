@@ -65,11 +65,11 @@
 	        <p>World of Honesty is a community comprising of individuals, NGOs, Companies and other Organizations, who are committed to work with honesty for the welfare of society, and make this world a better place to live in.</p>
 	      </div>
 	      <div class="fl_left">
-	      	<h4><B>Vision</B></h4><hr>
+	      	<h4><B><u>Vision</u></B></h4>
 	        <p>Create an honest world and help world to get all kind of quality services and products affordable to everyone.</p>
 	      </div>
 	      <div class="fl_left">
-	      	<h4><B>Mission</B></h4><hr>
+	      	<h4><B><u>Mission</u></B></h4>
 	        <p>To help and encourage honest individuals, NGOs, Companies and other Organizations to stay honest.</p>
 	        <p>To encourage and help those who want' to adopt the path of honesty.</p>
 	        <p>To motivate and help people to come back to path of honesty in case they have strayed away.</p>
@@ -80,7 +80,8 @@
     <div id="member_woh">
     	<div class="group btmspace-80">
 	      <div class="fl_left">
-	        <h2><B>People</B></h2><hr>
+	      	<h2><B>Member</B></h2><hr>
+	        <h2><B><u>People</u></B></h2>
 	        <h4>Honest People</h4>
 	        <p>People who are honest and doing honest practice are in this group. To be part of this group, one has to go through the rigorous honest testing as described below.</p>
 	        <p>- Lie Detector Test(Polygraph)</p> 
@@ -93,7 +94,7 @@
 	        <p>People, who are not honest, but now want to do honest practices will be in this group. The name of these people will not be visible to others. The people wants to be honest can register with us. To become part of World of Honesty, he/she has to do a honest practice of minimum 3 years. After that same rigorous honest test will be performed as described above .</p>
 	      </div>
    		  <div class="fl_left">
-	        <h2><B>NGO</B></h2><hr>
+	        <h2><B><u>NGO</u></B></h2>
 	        <p>Only those NGOs will be part of this world, who are doing honest practices. Those who are utilizing the funds received with honesty and working fairly for the welfare of society can be part of this honest world. NGOs also have to go through rigorous honest testing process as described below.</p>
 	        <p>- <B>Lie Detector Test(Polygraph):</B> Set of people associated with the NGOs will be selected and lie detector test(Polygraph) will be performed on these people.</p>
 	        <p>- <B>Inquiries from beneficiary :</B>  Beneficiaries will be asked regarding the NGOs. How they are performing and weather delivering the promises made or not.</p>
@@ -103,7 +104,7 @@
 	        <p><B>Note:</B> There is no charges for NGOs to be part of this community. However for the honest rigorous test, NGO has to pay the expense. In case NGO is found Honest, World of Honesty will try to get the fund for the expense occurred  for honest rigorous test .</p>
 	      </div>
 	      <div class="fl_left">
-	       	<h2><B>Company/Organization</B></h2><hr>
+	       	<h2><B><u>Company/Organization</u></B></h2>
 	        <p>Only those companies/organizations will be part of this world, who are doing honest practices. Those who are following the standard strictly and delivering product and services as per as standards can be part of this world. Company/Organization has to go through rigorous honest testing process as described below.</p>
 	        <p>- <B>Lie Detector Test(Polygraph)::</B> Set of people working with the company/organization will be selected and lie detector test(Polygraph) will be performed on these people.</p>
 	      </div>

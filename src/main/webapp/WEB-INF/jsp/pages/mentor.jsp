@@ -62,8 +62,8 @@
       <div class="fl_left">
        	<h4>Responsibility</h4>
        	<img class="imgr borderedbox inspace-5" src="/images/Mentorship/Responsibility.jpg" alt="">
-        <p>Mentor will monitor the functioning of the service center personnel of a panchayat through communication medium such as mobile, internet etc. and also give advice if necessary.</p>
-      	<p>If required, the mentor will contact the concerned officer etc. to provide services to the general public.</p>
+        <p>Mentor will monitor the functioning of the service center personnel of a panchayat through acommunication medium such as mobile, internet etc. and also give advice if necessary.</p>
+        <p>If required, the mentor will contact the concerned officer etc. to provide services to the general public.</p>
       </div>
     </div>
     
@@ -72,8 +72,8 @@
        	<h4>Expectation</h4>
        	<img class="imgl borderedbox inspace-5" src="/images/Mentorship/Expectation.png" alt="">
         <p>Contribution amount INR. 10,000. It will be the endeavor of the institution that this contribution amount should be returned to the mentor in future with an interest of 8% (maximum) per annum. However, the institution will not be obliged to return this amount. The mentor cannot put any kind of pressure on the institution to return the contribution amount.</p>
-	      <p>Arranging the contribution amount of Rs.15,000 from other people. If this amount is possible then it will be returned in future with 8% (maximum) interest annually.</p>
-	      <p>No expectation of any pay etc. to mentor at panchayat level.</p>
+	    <p>Arranging the contribution amount of Rs.15,000 from other people. If this amount is possible then it will be returned in future with 8% (maximum) interest annually.</p>
+      	<p>No expectation of any pay etc. to mentor at the panchayat level.</p>
       </div>
     </div>
     
@@ -81,10 +81,9 @@
       <div class="fl_left">
        	<h4>Benefit</h4>
        	<img class="imgr borderedbox inspace-5" src="/images/Mentorship/Benefit.jpg" alt="">
-        <p>If the work of the mentor is found to be satisfactory, in future, she/he may be given the responsibility of the entire block, district or state, or he/she can take any other responsibility. For which monthly salary will be paid.</p>
-	    <p>It is a provision for the mentor that one member of his family can join the organization on pay scale on the basis of his merit.</p>
-	    <p>If the mentor donor wants to set up any kind of business or open a NGO, and his work/objective is found to be according to the interest of the Fifth Pillar, every possible cooperation will be done. Fifth Pillar will work as a platform in such cases.</p>
-	    <p>Mentor will be given necessary assistance if there is any problem he/she faces in future.</p>
+        <p>If the work of the mentor is found to be satisfactory, in future,she/he may be given the responsibility of the entire block, district or state, or he/she can take any other responsibility. For which monthly salary will be paid.</p>
+        <p>It is a provision for the mentor that one member of his family can join the organizationon pay scale on the basis of his merit.</p>
+        <p>If the mentor donor wants to set up any kind of business or open an NGO, and his work/objective is found to be according to the interest of the Fifth Pillar, every possible cooperation will be done. Fifth Pillar will work as a platform in such cases.</p>
       </div>
     </div>
     
