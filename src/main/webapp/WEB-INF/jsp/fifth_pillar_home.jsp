@@ -21,7 +21,7 @@
         <li class="active"><a href="/home">Home</a></li>
         <li><a href="/service">Services</a></li> 
         <li><a href="/mentor">Mentorship</a></li>
-        <li><a href="/organization-structure">Organization Structure</a></li>
+        <li><a href="/organization-structure">Org_Str</a></li>
         <li><a href="/team">Team</a></li>
         <li><a href="#">Join Us</a></li>
       </ul>
