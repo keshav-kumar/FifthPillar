@@ -106,13 +106,13 @@
 				<div class="group">
 					<article class="one_half first">
 						<img class="imgl borderedbox inspace-5" src="images/team/Subhadeep Chakraborty.jpg" alt="">
-						<h4 class="nospace font-x1">Subhadeep Chakraborty.jpg</h4>
-						<p>Subhadeep Chakraborty.jpg</p>
+						<h4 class="nospace font-x1">Mr. Subhadeep Chakraborty</h4>
+						<p>PGDM IIM Ranchi, B.Tech.</p>
 					</article>
 					<article class="one_half">
 						<img class="imgl borderedbox inspace-5" src="images/team/Abhishek Pramanick.jpg" alt="">
 						<h4 class="nospace font-x1">Mr. Abhishek Pramanick</h4>
-						<p>Abhishek Pramanick.jpg</p>
+						<p>PGDM (P) IIM Ranchi, B. Tech</p>
 					</article>
 				</div>
 				<div class="group">
