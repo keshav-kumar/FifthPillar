@@ -22,7 +22,7 @@
 		        <li><a href="/mentor">Mentorship</a></li>
 		        <li class="active"><a href="/organization-structure">Org_Str</a></li>
 		        <li><a href="/team">Team</a></li>
-		        <li><a href="#">Join Us</a></li>
+		        <li><a href="/join-us">Join Us</a></li>
 		      </ul>
 		    </nav>
 		    

@@ -18,8 +18,13 @@ public class FifthPillarMvcConfig extends WebMvcConfigurerAdapter {
         registry.addViewController("/contact").setViewName("Contact");
         registry.addViewController("/service").setViewName("pages/services");
         registry.addViewController("/organization-structure").setViewName("pages/organization-structure");
+        registry.addViewController("/join-us").setViewName("pages/joinus");
 
         registry.addViewController("/worldofhonesty/home").setViewName("who/world_of_honesty_home");
+        
+        
+        registry.addViewController("/hindi").setViewName("hindi/fifth_pillar_home");
+        registry.addViewController("/hindi/home").setViewName("hindi/fifth_pillar_home");
     }
 
     // @Bean(name = "dataSource")
