@@ -134,6 +134,11 @@
 						<p>Fellow Scholar, IIM Ranchi. Ex. Engineer at Texas
 										Instruments & Technical Lead at Samsung, M. Tech IIT Kharagpur</p>
 					</article>
+					<article class="one_half">
+						<img class="imgl borderedbox inspace-5" src="images/team/Amit sah.jpg" alt="">
+						<h4 class="nospace font-x1">Mr. Amit Sah</h4>
+						<p>Business Development Manager at IVRCL TLT, B.E., MBA</p>
+					</article>
 				</div>
 			<!-- ################################################################################################ -->
 			</section>
@@ -272,6 +277,65 @@
 						<p>Consultant with Cognizant PGDM IIM Ranchi</p>
 					</article>
 				</div>
+				<div class="group">
+					<article class="one_half first">
+						<img class="imgl borderedbox inspace-5" src="images/team/Nimesh Kr. Panda.jpg" alt="">
+						<h4 class="nospace font-x1">Mr. Nimesh Kr. Panda</h4>
+						<p>Engineer at UST Global at Malysia, Ex. Eng R Systems, B.E.</p>
+					</article>
+					<article class="one_half">
+						<img class="imgl borderedbox inspace-5" src="images/team/Sheikh MD Ashraful Islam.jpg" alt="">
+						<h4 class="nospace font-x1">Sheikh MD Ashraful Islam</h4>
+						<p>ADM, Future Retail Limited MBA, BE.</p>
+					</article>
+				</div>
+				
+				<div class="group">
+					<article class="one_half first">
+						<img class="imgl borderedbox inspace-5" src="images/team/Devraj Reddy.png" alt="">
+						<h4 class="nospace font-x1">Mr. Devraj Reddy</h4>
+						<p>Engineer at Accenture, B.E.</p>
+					</article>
+					<article class="one_half">
+						<img class="imgl borderedbox inspace-5" src="images/team/Satya Prakash.jpg" alt="">
+						<h4 class="nospace font-x1">Mr. Satya Prakash</h4>
+						<p>Asst. Prof. IEC Greater Noida, Author of two Books, M. Tech NSIT Delhi University</p>
+					</article>
+				</div>
+				<div class="group">
+					<article class="one_half first">
+						<img class="imgl borderedbox inspace-5" src="images/team/Sanjeev Ranjan.jpg" alt="">
+						<h4 class="nospace font-x1">Mr. Sanjeev Ranjan</h4>
+						<p>Engineer at NDS, MBA IMT Ghaziabad, B.E.</p>
+					</article>
+					<article class="one_half">
+						<img class="imgl borderedbox inspace-5" src="images/team/Dinesh Jha.jpg" alt="">
+						<h4 class="nospace font-x1">Mr. Dinesh Jha</h4>
+						<p>Dy. Manager Newgen Software Technology Ltd. Noida MBA, BE</p>
+					</article>
+				</div>
+				<div class="group">
+					<article class="one_half first">
+						<img class="imgl borderedbox inspace-5" src="images/team/Hari Shankar Sahu.jpg" alt="">
+						<h4 class="nospace font-x1">Mr. Hari Shankar Sahu</h4>
+						<p>Asst. Manager Reliance JIO, Delhi BE</p>
+					</article>
+					<article class="one_half">
+						<img class="imgl borderedbox inspace-5" src="images/team/Sandeep Sharma.jpg" alt="">
+						<h4 class="nospace font-x1">Mr. Sandeep Sharma</h4>
+						<p>Cost Accountant MBA, LLB, Cost Accounting</p>
+					</article>
+				</div>
+				
+				<div class="group">
+					<article class="one_half first">
+						<img class="imgl borderedbox inspace-5" src="images/team/Sanjiv Gupta.jpg" alt="">
+						<h4 class="nospace font-x1">Mr. Sanjiv Gupta</h4>
+						<p>Asst. Professor, Galgotias University G. Noida M. Tech DTU (DCE)</p>
+					</article>
+				</div>
+				
+				
 			</section>
 		</div>
 		
